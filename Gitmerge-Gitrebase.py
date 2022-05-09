@@ -1,1 +1,1 @@
-print("Yo soy la rama principal, se avanzo en esta rama")
+print("Yo soy la rama principal") #avanzar la rama
