@@ -1,3 +1,2 @@
 print("Yo soy la rama principal")
-print("Se trabajo en merge1")
-print("Se completo el ejemplo de merge")
+print("Se trabajo en rebase1, rebase2 solo sera una copia de rebase 1 para comparar")
