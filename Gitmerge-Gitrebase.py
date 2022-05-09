@@ -1,1 +1,2 @@
-print("Yo soy la rama principal, y avance en mi rama")
+print("Yo soy la rama principal")
+print("Se trabajo en merge1")
